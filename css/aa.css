@@ -12361,6 +12361,9 @@ user-select: none;
   padding-top: 20px;
   padding-bottom: 10px;
 }
+.primary-logo {
+  width: 130px;
+}
 @keyframes fadein {
   from {
     transform: translateY(100%);
