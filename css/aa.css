@@ -11401,6 +11401,9 @@ body .container {
 .mfp-wrap, .mfp-bg {
   z-index: 9999 !important;
 }
+.mfp-bg {
+  opacity: 0.90 !important;
+}
 .navbar-aa {
   background: #fff !important;
   border-bottom: 1px solid rgba(0, 0, 0, 0.04);
